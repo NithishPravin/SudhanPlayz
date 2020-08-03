@@ -1,6 +1,6 @@
 <!-- Banner will be soon ![](./banner.jpg) -->
-## Hello, I am :wave:
-# Sudhan
+## Hello, :wave:
+# I am Sudhan
 
 ### About me
 ```js
