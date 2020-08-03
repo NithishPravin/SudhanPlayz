@@ -15,6 +15,10 @@ const Sudhan = {
         {
             name: "Pikacore",
             role: "Owner"||"Developer"//I maybe owner or a developer
+        },
+        {
+            name: "Team Donut",
+            role: "Member"//My friends team :heart:
         }
     ]
 }
